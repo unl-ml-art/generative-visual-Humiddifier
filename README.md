@@ -26,6 +26,7 @@ Coming Soon!
 Here are some research articles that inspired this idea:
 
 Female Gamers’ Experience of Online Harassment and Social Support in Online Gaming: A Qualitative Study by Lavinia McLean and Mark D. Griffiths 
+
 Cyber-veil: Harassment and metaphorical cloaking on the internet by Barbara Friedman
 
 Gender and Privacy in Cyberspace by Anita L. Allen
