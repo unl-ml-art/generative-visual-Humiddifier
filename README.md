@@ -1,40 +1,30 @@
-# Project 3 Generative Visual
+#  
 
-Your Name, yourcontact@unl.edu
-(Your teammate's contact info, if appropriate)
+Elliot Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+For our generative visual project, I want to use CLIP Gan to visualize “the veil of the Internet.” I have been doing some projects trying to understand the impact of hyper gendering of women online. I came across the idea of the internet acting as a veil of anonymity, often used by women and non-binary people to protect themselves from the male gaze. I am hoping to write a few phrases that relate to this idea and CLIP Gan will visualize them. I am curious to see how CLIP imagines it, as this idea only exists online and it is unphysical. 
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+I am hoping to use CLIP Gan and input phrases such as "A picture of the veil of the Internet," "A picture of a cyber veil," "a picture of a person breaking gender regulations," "androgyny in cyberspace," "sailing through cyberspace and spilling private information" ... etc 
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+I will upload the code here once images are generated
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- move files (uploaded to youtube or vimeo due to github file size limits)
-- ... some other form
+Coming Soon!
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Coming Soon!
 
 ## Reference
+Here are some research articles that inspired this idea:
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+Female Gamers’ Experience of Online Harassment and Social Support in Online Gaming: A Qualitative Study by Lavinia McLean and Mark D. Griffiths 
+Cyber-veil: Harassment and metaphorical cloaking on the internet by Barbara Friedman
+Gender and Privacy in Cyberspace by Anita L. Allen
