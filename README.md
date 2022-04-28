@@ -1,6 +1,6 @@
 #  
 
-Elliot Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
+Elliot (Iris) Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
