@@ -4,7 +4,7 @@ Elliot (Iris) Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
-For our generative visual project, I want to use CLIP Gan to visualize “the veil of the Internet.” I have been doing some projects trying to understand the impact of hyper gendering of women online. I came across the idea of the internet acting as a veil of anonymity, often used by women and non-binary people to protect themselves from the male gaze. I am hoping to write a few phrases that relate to this idea and CLIP Gan will visualize them. I am curious to see how CLIP imagines it, as this idea only exists online and it is unphysical. 
+For our generative visual project, I want to use CLIP BigGAN and DALL E to visualize “the veil of the Internet.” I have been doing some projects trying to understand the impact of hyper gendering of women online. I came across the idea of the internet acting as a veil of anonymity, often used by women and non-binary people to protect themselves from the male gaze. I am hoping to write a few phrases that relate to this idea and CLIP Gan will visualize them. I am curious to see how CLIP imagines it, as this idea only exists online and it is unphysical. 
 
 ## Model/Data
 
